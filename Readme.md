@@ -1,2 +1,5 @@
-Backend : express, mysql, mongo db, może graphql 
+Backend : express, mysql, mongo db, może graphql \n
 Frontend : react + typescript 
+
+
+Way to install : npm install 
